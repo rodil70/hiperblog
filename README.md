@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f499:
+# Hyperblog ❤
 Primer repositorio en el gran camino de la programacion
 >El curso de Git y GitHub es sumamente interesante debido a la gestion de repositorios
 
