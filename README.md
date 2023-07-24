@@ -6,3 +6,4 @@ En este curso vemos muchas cosas:
 * Aprender a usar los comando de git
 * Manejar los repositorios desde github
 * Crear archivos readme.md
+* Creditos  a David
