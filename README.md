@@ -7,3 +7,6 @@ En este curso vemos muchas cosas:
 * Manejar los repositorios desde github
 * Crear archivos readme.md
 * Creditos  a David
+* Creditos  a David
+* Windows,Linux y Mac
+* Todas las edades
